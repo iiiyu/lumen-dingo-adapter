@@ -12,13 +12,13 @@
         ]
     },
     "require": {
-        "php": ">=5.5.9",
-        "illuminate/hashing": "^5.4",
-        "tymon/jwt-auth": "0.5.*",
-        "illuminate/cookie": "^5.4",
-        "illuminate/routing": "^5.4",
-        "illuminate/http": "^5.4",
-        "dingo/api": "1.0.x@dev"
+        "php": ">=7.0",
+        "tymon/jwt-auth": "^1.0.0-rc.1",
+        "dingo/api": "^2.0.0-alpha1",
+        "illuminate/hashing": "5.5.*",
+        "illuminate/cookie": "5.5.*",
+        "illuminate/routing": "5.5.*",
+        "illuminate/http": "5.5.*"
     },
     "authors": [
         {
