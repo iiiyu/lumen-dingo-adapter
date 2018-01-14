@@ -30,6 +30,6 @@
             "email": "yu@ohmyapps.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-dist": true
 }
